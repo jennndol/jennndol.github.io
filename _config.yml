@@ -21,7 +21,7 @@
 title: Luthfi - Software Engineer
 email: jkt.luthfi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Luthfi, an experienced Software Engineer with strong IT background. I have been through a lot of experiences in working as individual or with team. Solving problem with best and proper method is what I do. And I believe the world will be more beautiful place through quality software. 
+  Hi, I am Luthfi, an experienced Software Engineer with strong IT background. I have been through a lot of experiences in working as individual or with team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jennndol
