@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Luthfi - Software Engineer
+title: Muhammad Luthfi
 email: jkt.luthfi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I am Luthfi, an experienced Software Engineer with strong IT background. I have been through a lot of experiences in working as individual or with team.
