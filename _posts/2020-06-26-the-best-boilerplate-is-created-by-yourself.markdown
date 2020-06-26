@@ -12,7 +12,7 @@ It let you get your next project up and running quickly, and usually provide som
 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor: Microsoft. The goal of TypeScript is to help catch mistakes early through a type system and to make JavaScript development more efficient. Type defined = less error.
 
-In this post, I'd like to introduce a boilerplate for creating backend server powered by Express and yup, with the kindness of Typescript. It handles basic requirements for development, including Typescript compiling system, hot reload, linting system, and test runner.
+In this post, I'd like to introduce a boilerplate for creating backend server powered by Express and yup, with the kindness of Typescript. It handles basic requirements for development, including Typescript compiling system, hot reload, linting system, logger and test runner.
  
 Check out the [Express with Typescript boilerplate][typescript-boilerplate], I hope it helps creating your own boilerplate.
 
