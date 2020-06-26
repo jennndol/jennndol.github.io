@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-06-22 14:46:54 +0700
-categories: jekyll update
+title:  "The best boilerplate is created by yourself!"
+date:   2020-06-26 14:00:54 +0700
+categories: boilerplate typescript express
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Boilerplate, it is the term used to describe sections of code that can be included in many places with little or no alteration. It is more often used when referring to languages which are considered verbose, i.e. the programmer must write a lot of code to do minimal jobs. Boilerplate code is a piece of code which can be used over and over again or we can say it, a piece of reusable code.
 
-Jekyll requires blog post files to be named according to the following format:
+It let you get your next project up and running quickly, and usually provide some form of structure you can follow. However, it could be time consuming.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor: Microsoft. The goal of TypeScript is to help catch mistakes early through a type system and to make JavaScript development more efficient. Type defined = less error.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In this post, I'd like to introduce a boilerplate for creating backend server powered by Express and yup, with the kindness of Typescript. It handles basic requirements for development, including Typescript compiling system, hot reload, linting system, and test runner.
+ 
+Check out the [Express with Typescript boilerplate][typescript-boilerplate], I hope it helps.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[typescript-boilerplate]: https://github.com/jennndol/express-with-typescript-template
