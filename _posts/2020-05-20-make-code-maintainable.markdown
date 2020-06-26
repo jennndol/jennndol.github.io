@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make your code maintainable"
+title:  "Make code maintainable"
 date:   2020-05-20 14:00:54 +0700
 categories: maintain coding
 ---
