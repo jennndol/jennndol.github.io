@@ -4,7 +4,7 @@ title:  "Coding is easy, making code maintainable isn’t, and isn’t hard as w
 date:   2020-05-20 14:00:54 +0700
 categories: maintain coding
 ---
-![Clean Code](https://www.onextrapixel.com/wp-content/uploads/2011/01/img-cleancode-03.jpg)
+![Clean Code](https://miro.medium.com/max/4096/1*K_B9fk4OLex0SizoDAUC3w.jpeg)
 
 Everyone can code, but only few of them can create quality code that someday can be maintainable by other people. This writing is based on my experience handling project that created by internal team in my company and vendor.
 There are things that have to be included when you develop your project:
@@ -17,4 +17,4 @@ Logs are a simple way of persisting data about your application so you can view 
 If you’ve written Javascript before, you’ll be used to console.log, the built-in method of logging output. But, it’s just suitable to be used in your development phase of your project. When the project is released in production you can use logger library such as winston, pino, etc.
 
 ## Review code
-The coding you write works as expected? It’s okay code review is to make sure that your code is readable, fix the wrong logic if it does exist, and to make your coding style is similar with your team.
+The coding you write works as expected? It’s okay code review is to make sure that your code is readable, fix the wrong logic if it does exist, and to make your coding style similar with your team.
