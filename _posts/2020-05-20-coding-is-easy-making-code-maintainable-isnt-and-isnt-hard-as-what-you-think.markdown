@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coding is easy, making code maintainable isn’t, and isn’t hard as what you think"
+title:  "Make your code maintainable"
 date:   2020-05-20 14:00:54 +0700
 categories: maintain coding
 ---
@@ -20,3 +20,5 @@ If you’ve written Javascript before, you’ll be used to console.log, the buil
 
 ## Review code
 The coding you write works as expected? It’s okay code review is to make sure that your code is readable, fix the wrong logic if it does exist, and to make your coding style similar with your team.
+
+I hope this post is helpful, thank you for reading :D
