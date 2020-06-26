@@ -6,7 +6,8 @@ categories: maintain coding
 ---
 ![Clean Code](https://miro.medium.com/max/4096/1*K_B9fk4OLex0SizoDAUC3w.jpeg)
 
-Everyone can code, but only few of them can create quality code that someday can be maintainable by other people. This writing is based on my experience handling project that created by internal team in my company and vendor.
+Everyone can code, but only few of them can create quality code that someday can be maintainable by other people.
+
 There are things that have to be included when you develop your project:
 
 ## Always create test
