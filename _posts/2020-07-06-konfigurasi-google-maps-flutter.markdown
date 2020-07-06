@@ -150,7 +150,3 @@ Jika dijalankan, maka akan terlihat seperti berikut.
 That's all, terimakasih sudah menyempatkan membaca, semoga bermanfaat :).
 
 [mobile]: https://flutter.dev/docs	"mobile"
-
-```
-ios/Runner/AppDelegate.swift
-```
