@@ -8,7 +8,7 @@ categories: dart flutter
 
 Pada tulisan ini kita akan mengkonfigurasikan **Flutter** dengan **Google Maps**.
 
-Dewasa ini banyak sekali aplikasi yang memanfaatkan peta, beberapa diantaranya mungkin sering sekali kita pakai dan tentunya sangat memanjakan hidup kita. Beberapa maps libraries meramaikan dunia software development untuk pemanfaatan peta ini, dan satu yang paling populer adalah **Google Maps**. Dan disamping itu **Flutter** menjadi salah satu yang paling diminati untuk membuat aplikasi mobile, cukup dengan satu kali menulis baris kode.
+Dewasa ini banyak sekali aplikasi yang memanfaatkan peta, beberapa diantaranya mungkin sering sekali kita pakai dan tentunya sangat memanjakan hidup kita. Beberapa maps libraries meramaikan dunia software development untuk pemanfaatan peta ini, dan satu yang paling populer adalah **Google Maps**. Dan disamping itu **Flutter** menjadi salah satu yang paling diminati untuk membuat aplikasi mobile, cukup dengan satu kali menulis baris kode, aplikasi bisa berjalan baik di sistem operasi Android maupun IOS.
 
 ## Pengenalan Google Maps dan Flutter
 
@@ -26,7 +26,7 @@ Dewasa ini banyak sekali aplikasi yang memanfaatkan peta, beberapa diantaranya m
 
 * ### Aktifkan Google Maps SDK
 
-  Pastikan Google Maps SDK aktif untuk Operating System yang kita pilih, untuk poin ini kita bisa aktifasi untuk Maps SDK Android dan IOS.
+  Pastikan Google Maps SDK aktif untuk Operating System yang kita pilih, untuk poin ini kita bisa aktifasi untuk Maps SDK sistem operasi Android dan IOS.
 
 * ### Set Dependensi
 
