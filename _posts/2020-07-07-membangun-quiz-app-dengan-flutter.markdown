@@ -342,9 +342,9 @@ Yeaaaay, selangkah lagi agar aplikasi kuis kita bisa dipakai, yaitu menambahkan 
 
    Dan taraaaaa, semua fungsionalitas aplikasi kuis kita berhasil dibuat.
 
-   ![Quiz App](https://jennndol.github.io/assets/images/final-my-kuis.png).
+   ![Quiz App](https://jennndol.github.io/assets/images/final-my-kuis.png)
 
-   Kode lengkapnya bisa dilihat [disini](https://jennndol.github.io/dart/flutter/2020/07/07/membangun-quiz-app-dengan-flutter.html). Terimakasih sudah membaca, semoga bermanfaat 🙏.
+   Kode lengkapnya bisa dilihat [disini](https://github.com/jennndol/my-flutter-quizz). Terimakasih sudah membaca, semoga bermanfaat 🙏.
 
 [Source Code]: https://jennndol.github.io/dart/flutter/2020/07/07/membangun-quiz-app-dengan-flutter.html	"Source Code"
 
