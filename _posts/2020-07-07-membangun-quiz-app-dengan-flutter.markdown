@@ -298,7 +298,7 @@ Yeaaaay, selangkah lagi agar aplikasi kuis kita bisa dipakai, yaitu menambahkan 
      		...
    ```
 
-   Jika dijalankan, maka aplikasi kuis kita sudah bisa mengganti pertanyaan ketika tombol **Benar** tau **Salah** di klik.
+   Jika dijalankan, maka aplikasi kuis kita sudah bisa menyimpan jumlah jawaban benar ketika tombol **Benar** tau **Salah** di klik.
 
 4. #### Menampilkan Hasil Kuis
 
