@@ -12,8 +12,8 @@ function App() {
         <h1 className="text-4xl font-extrabold text-white mb-2">Hi, I'm Luthfi</h1>
         <p className="text-lg text-purple-200 mb-4">Software Engineer & Web Enthusiast</p>
         <p className="text-gray-200 mb-6">
-          I love building beautiful, performant web applications with modern technologies. 
-          Passionate about open source, UI/UX, and sharing knowledge with the community.
+          I specialize in building robust backend systems, and I'm also skilled in frontend development.
+          Passionate about scalable architectures, modern web technologies, and sharing knowledge with the community.
         </p>
         <div className="flex justify-center gap-4">
           <a
