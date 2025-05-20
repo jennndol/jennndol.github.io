@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.ad84b011.js",
-    "static/js/453.bf130ed2.chunk.js": "/react-gh-pages/static/js/453.bf130ed2.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.ad84b011.js.map": "/react-gh-pages/static/js/main.ad84b011.js.map",
-    "453.bf130ed2.chunk.js.map": "/react-gh-pages/static/js/453.bf130ed2.chunk.js.map"
+    "main.css": "/jennndol.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/jennndol.github.io/static/js/main.ec91c73f.js",
+    "static/js/453.bf130ed2.chunk.js": "/jennndol.github.io/static/js/453.bf130ed2.chunk.js",
+    "static/media/logo.svg": "/jennndol.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jennndol.github.io/index.html",
+    "main.f855e6bc.css.map": "/jennndol.github.io/static/css/main.f855e6bc.css.map",
+    "main.ec91c73f.js.map": "/jennndol.github.io/static/js/main.ec91c73f.js.map",
+    "453.bf130ed2.chunk.js.map": "/jennndol.github.io/static/js/453.bf130ed2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ad84b011.js"
+    "static/js/main.ec91c73f.js"
   ]
 }
